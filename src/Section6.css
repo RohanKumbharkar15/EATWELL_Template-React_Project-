@@ -1,0 +1,14 @@
+.bg-c{
+    background-color: #F8F9FA;
+}
+form input,form textarea{
+    background-color: #E6E6E6;
+}
+.s6-img{
+    width: 310px;
+    height: 300px;
+}
+.s6-img img{
+    width: 100%;
+    height: 100%;
+}

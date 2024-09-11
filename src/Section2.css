@@ -1,0 +1,13 @@
+.sec2-div h2{
+    font-size: 30px;
+    color: gray;
+}
+.sec2-div h1{
+    font-size: 45px;
+}
+.sec2-div p{
+    font-size: 20px;
+    width: 70%;
+    margin: 0 auto;
+    color: gray;
+}
